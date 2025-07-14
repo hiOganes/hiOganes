@@ -1,5 +1,5 @@
 # Hi, I'm Alexandr Oganesyan, 👋   
-## Backend Python Developer
+## Python Backend Developer
 
 
 ## 🛠 Tech Stack
