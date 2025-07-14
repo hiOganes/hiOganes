@@ -12,4 +12,4 @@
 
 Feel free to check out my repositories and reach out for collaboration!
 
-[![My Telegram](https://img.shields.io/badge/My_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hiOganes)
+[![My Telegram](https://img.shields.io/badge/My_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hiOganes) [![Stepik](https://img.shields.io/badge/Stepik-316192?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/users/565514840/profile)
