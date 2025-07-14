@@ -10,8 +10,8 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/) 
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/) [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-## 🔗 Certificates and telegram
+## 🔗 Links
 
 Feel free to check out my repositories and reach out for collaboration!
 
-[![My Telegram](https://img.shields.io/badge/My_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hiOganes) [![Stepik](https://img.shields.io/badge/Stepik-316192?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/users/565514840/profile)
+[![My Telegram](https://img.shields.io/badge/My_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hiOganes) [![Certificates](https://img.shields.io/badge/Stepik-316192?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/users/565514840/profile)
