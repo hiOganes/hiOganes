@@ -16,4 +16,4 @@ Feel free to check out my repositories and reach out for collaboration!
 
 [![Certificates](https://img.shields.io/badge/Certificates-316192?style=for-the-badge&logo=Certificates&logoColor=white)](https://stepik.org/users/565514840/profile)
 
-[![My Telegram](https://img.shields.io/badge/My_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hiOganes) [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reserv.oganes@gmail.com)
+[![Telegram](https://img.shields.io/badge/My_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hiOganes) [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reserv.oganes@gmail.com)
