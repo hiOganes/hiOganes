@@ -18,6 +18,4 @@ Feel free to check out my repositories and reach out for collaboration!
 
 [![Certificates](https://img.shields.io/badge/Certificates-316192?style=for-the-badge&logo=Certificates&logoColor=white)](https://stepik.org/users/565514840/profile)
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hiOganes) <a href="mailto:reserv.oganes@gmail.com?subject=Вопрос">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail">
-</a>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hiOganes) [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=reserv.oganes@gmail.com&su=Вопрос)
