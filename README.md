@@ -6,11 +6,6 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) [![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-F5F5DC?style=for-the-badge)](https://www.django-rest-framework.org/) 
-/* docs/theme/custom.css */
-.md-content {
-    color: #800000; /* Бордовый шрифт */
-}
-[![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-800000?style=for-the-badge)](https://www.django-rest-framework.org/)
 
 [![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)](https://docs.celeryq.dev/en/stable/index.html)
 
